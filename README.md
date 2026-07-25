@@ -1,4 +1,4 @@
-# Medical_Imaging_Projects
+# Medical Imaging Projects
 
 # Optic Disc and Cup Segmentation for Glaucoma Detection:
 
