@@ -26,8 +26,7 @@ https://cvit.iiit.ac.in/mip/datasets.html
 ## Hugging Face repository:
 ```
 https://huggingface.co/Yashu13/od-cup-segmentation-glaucoma-detection
-```
-\n
+```\
 
 
 # Medical Text Extraction using Retrieval Augmented Generation:
