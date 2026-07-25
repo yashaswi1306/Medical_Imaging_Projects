@@ -27,3 +27,28 @@ https://cvit.iiit.ac.in/mip/datasets.html
 ```
 https://huggingface.co/Yashu13/od-cup-segmentation-glaucoma-detection
 ```
+
+# Medical Text Extraction using Retrieval Augmented Generation:
+
+The notebook uses a basic RAG pipeline for revision flashcard generation, utilising:
+
+## Features
+```
+Text extraction from pdf using PyMuPDF
+Text chunking
+Semantic Embeddings via BAAI/bge-base-en-v1.5
+Similarity search via FAISS
+Flashcard generation using Qwen2.5-3B-Instruct
+```
+
+## Dataset:
+ICMR: Definition_of_terms_used_in_limitation_of_treatment_and_providing_palliative_care_at_end_of_life.pdf
+```
+https://www.icmr.gov.in/icmrobject/custom_data/pdf/downloadable-books/Definition_of_terms_used_in_limitation_of_treatment_and_providing_palliative_care_at_end_of_life.pdf
+```
+
+## Reference:
+```
+https://www.youtube.com/watch?v=0jOlZpFFxCE
+https://huggingface.co/BAAI/bge-base-en-v1.5
+```
