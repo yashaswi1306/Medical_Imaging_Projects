@@ -28,6 +28,8 @@ https://cvit.iiit.ac.in/mip/datasets.html
 https://huggingface.co/Yashu13/od-cup-segmentation-glaucoma-detection
 ```
 
+
+
 # Medical Text Extraction using Retrieval Augmented Generation:
 
 The notebook uses a basic RAG pipeline for revision flashcard generation, utilising:
