@@ -1,6 +1,6 @@
 # Medical Imaging Projects
 
-# Optic Disc and Cup Segmentation for Glaucoma Detection:
+# 1. Optic Disc and Cup Segmentation for Glaucoma Detection:
 
 The repository contains weights for the pretrained model which can segment the optic disc and optic cup from retinal scans. It has then been used to calculate the Cup to Disc Ratio(CDR), which is used as a marker for glaucoma detection.
 
@@ -28,7 +28,7 @@ https://cvit.iiit.ac.in/mip/datasets.html
 https://huggingface.co/Yashu13/od-cup-segmentation-glaucoma-detection
 ```
 
-# Left Ventricular Ejection Fraction Calculation via MRI Segmentation
+# 2. Left Ventricular Ejection Fraction Calculation via MRI Segmentation
 The repository contains weights for the pretrained model which can segment the left ventricle of the heart from mri scans. It has then been used to calculate the Ejection Fraction(EF), from the frames with systolic and diastolic volume of the left ventricle.
 
 ## Dataset:
@@ -49,7 +49,7 @@ https://huggingface.co/Yashu13/segmentation_model_lv_ef
 ```
 
 
-# Medical Text Extraction using Retrieval Augmented Generation:
+# 3. Medical Text Extraction using Retrieval Augmented Generation:
 
 The notebook uses a basic RAG pipeline for revision flashcard generation, utilising:
 
